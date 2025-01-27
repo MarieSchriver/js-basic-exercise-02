@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
 
 // Opgave 3: Opret variabler til navn og alder
 let name = "Anders";
@@ -11,5 +11,4 @@ console.log(`Hi ${name}, you are ${age} years old!`);
 name = "Mette";
 age = 30;
 
-// Vis den opdaterede besked med console.log
 console.log(`Hi ${name}, you are ${age} years old!`);
